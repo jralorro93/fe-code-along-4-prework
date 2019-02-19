@@ -83,8 +83,8 @@ section {
 
 /*     LAYOUT    */
 * {
-  box-sizing: boerder-box;
-  box-sizing: boerder-box;
+  -webkit-box-sizing: boerder-box;
+  -moz-box-sizing: boerder-box;
   box-sizing: boerder-box;
 }
 
