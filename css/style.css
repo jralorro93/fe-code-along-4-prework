@@ -75,7 +75,10 @@ figcaption {
 img, video, audo {
   max-width: 100%;
 }
-
+/*     SECTIONS   */
+section {
+  margin-bottom:; 
+}
 
 /*     LAYOUT    */
 .wrapper {
