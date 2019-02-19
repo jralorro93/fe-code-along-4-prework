@@ -77,10 +77,15 @@ img, video, audo {
 }
 /*     SECTIONS   */
 section {
-  margin-bottom:; 
+  padding: 20px;
+  margin-bottom:20px; 
 }
 
 /*     LAYOUT    */
+* {
+  box-sizing: boerder-box;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
